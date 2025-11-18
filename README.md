@@ -83,7 +83,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ## Integrantes do Grupo
 
-| Nome Completo | RM (Registro de Matrícula) |
+| Nome Completo | RM |
 | :--- | :---: |
 | Gabriel Genaro Dalaqua | 551986 |
 | Paloma Mirela dos Santos Rodrigues | 551321 |
