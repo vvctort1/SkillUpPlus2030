@@ -83,10 +83,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ## Integrantes do Grupo
 
-| Nome Completo | RM |
+| RM | Nome |
 | :--- | :---: |
-| Gabriel Genaro Dalaqua | 551986 |
-| Paloma Mirela dos Santos Rodrigues | 551321 |
-| Victor Kenzo Toma | 551649 |
+| 551986 | Gabriel Genaro Dalaqua |
+| 551321 | Paloma Mirela dos Santos Rodrigues |
+| 551649 | Victor Kenzo Toma |
 
 ---
