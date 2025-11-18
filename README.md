@@ -46,7 +46,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/seu-usuario/seu-projeto.git)
+    git clone https://github.com/vvctort1/SkillUpPlus2030.git
     cd seu-projeto
     ```
 
